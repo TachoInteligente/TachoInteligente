@@ -7,3 +7,11 @@ Tacho Inteligente</h1>
 </body>
 </html>
 Componentes utilizados:
+- Raspberry Pi Pico
+- Sensor ultrasonico HC-SR04
+- Servomotor SG-5010
+- Resistores de 1,8 kilohms y 3,3 kilohms
+- Cables
+- Cable USB
+- Bateria 9v 
+
