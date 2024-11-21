@@ -12,15 +12,17 @@ Nuestra idea es hacer que una tarea de la casa tan simple como tirar la basura s
 
 Componentes utilizados:
 
-- Raspberry Pi Pico
-- Sensor ultrasonico HC-SR04
-- Servomotor SG-5010
-- Resistores de 1,8 Kilohms y 3,3 Kilohms
-- Cables
-- Cable USB
-- Bateria 9V
+- Raspberry Pi Pico $14000
+- Sensor ultrasonico HC-SR04 $2790
+- Servomotor SG-5010 $7300
+- Resistores de 1,8 Kilohms y 3,3 Kilohms $100
+- Placa simple faz $3000
+- Cables 
+- Cable USB $3000
+- Bateria 9V $5800
   
-Nuestros pasos fueron:
+Nuestros pasos para realizar este proyecto fueron:
+
 - La planeacion del proyecto y ideas del proyecto
 - Pensamos procibles componentes a usar
 - Realizamos la programacion del proyecto
