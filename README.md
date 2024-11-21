@@ -8,7 +8,7 @@ Tacho Inteligente</h1>
 </html>
 Un poco del proyecto:
 
-Nuestra idea es hacer que una tarea de la casa tan simple como tirar la basura sea un poco mas facil. Es probable que, al tirar los desechos de la cocina, comedor e incluso habitaciones, tengamos las manos llenas de basura y se vuelva complicado abrir el tacho de basura. Por eso, diseñamos un tacho de basura inteligente que detecta cuando se aproxima una persona y se abre. 
+Nuestra idea es hacer que una tarea de la casa tan simple como tirar la basura sea un poco mas fÀcil. Es probable que, al tirar los desechos de la cocina, comedor e incluso habitaciones, tengamos las manos llenas de basura y se vuelva complicado abrir el tacho de basura. Por eso, diseñamos un tacho de basura inteligente que detecta cuando se aproxima una persona y se abre. 
 
 Componentes utilizados:
 
