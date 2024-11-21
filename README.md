@@ -21,12 +21,12 @@ Componentes utilizados:
 - Bateria 9V
   
 Nuestros pasos fueron:
-1_ la planeacion del proyecto y ideas del proyecto
-2_ Pensamos procibles componentes a usar
-3_ realizamos la programacion del proyecto
-4_ compramos los componentes
-5_ diseñamos el circuito y lo imprimimos en una placa
-6_ agujeriamos la placa para poder colocar los componentes
-7_ armamos el proyecto 
+- La planeacion del proyecto y ideas del proyecto
+- Pensamos procibles componentes a usar
+- Realizamos la programacion del proyecto
+- Compramos los componentes
+- Diseñamos el circuito y lo imprimimos en una placa
+- Agujeriamos la placa para poder colocar los componentes
+- Armamos el proyecto 
 
 
