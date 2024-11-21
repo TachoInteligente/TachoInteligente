@@ -6,3 +6,4 @@ Tacho Inteligente</h1>
 <p>Integrantes: Addona Federico, Amorin Santiago, Andrusiw Federico, Balbastro Dante y Leones Tomas.</p>
 </body>
 </html>
+Componentes utilizados:
