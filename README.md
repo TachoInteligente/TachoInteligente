@@ -21,14 +21,10 @@ Componentes utilizados:
 - Cable USB $3000
 - Bateria 9V $5800
   
-Nuestros pasos para realizar este proyecto fueron:
+Progreso del equipo:
 
-- La planeacion del proyecto y ideas del proyecto
-- Pensamos procibles componentes a usar
-- Realizamos la programacion del proyecto
-- Compramos los componentes
-- Diseñamos el circuito y lo imprimimos en una placa
-- Agujeriamos la placa para poder colocar los componentes
-- Armamos el proyecto 
+En primer lugar, comenzamos con la planeacion del proyecto y pensamos cuales podrian haber sido los prosibles componentes a usar en el trabajo. Al ya tener una idea clara, compramos todos los componentes necesarios y, cuando ya estabamos seguros de que lo ibamos a poder hacer, investigamos e hicimos la programacion de la Raspberry Pi Pico. 
+  Luego, teniamos que seguir con el ultimo paso: La colocacion de los componentes en la placa. Para ello, agujereamos la placa con todos los pines de los materiales. 
+
 
 
