@@ -17,7 +17,7 @@ En primer lugar, comenzamos con la planeacion del proyecto y pensamos cuales pod
 
 Componentes utilizados:
 
-- Raspberry Pi Pico $14000
+- Raspberry Pi Pico $14000 <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://datasheets.raspberrypi.com/pico/Pico-R3-A4-Pinout.pdf">pinout py pico</a>
 - Sensor ultrasonico HC-SR04 $2790
 - Servomotor SG-5010 $7300
 - Resistores de 1,8 Kilohms y 3,3 Kilohms $100
