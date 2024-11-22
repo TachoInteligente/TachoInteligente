@@ -22,7 +22,7 @@ Componentes utilizados:
 - Servomotor SG-5010 $7300 <a href="https://www.alldatasheet.com/datasheet-pdf/view/1540157/ETC2/SG5010.html">Datasheet-Hoja de Datos</a>
 - Resistores de 1,8 Kilohms y 3,3 Kilohms $100
 - Placa simple faz $3000
-- Cables
+- Cables $4000
 - Cable USB $3000
 - Bateria 9V $5800
   
