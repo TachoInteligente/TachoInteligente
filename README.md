@@ -10,6 +10,11 @@ Un poco del proyecto:
 
 Nuestra idea es hacer que una tarea de la casa tan simple como tirar la basura sea un poco mas facil. Es probable que, al tirar los desechos de la cocina, comedor e incluso habitaciones, tengamos las manos llenas de basura y se vuelva complicado abrir el tacho de basura. Por eso, diseñamos un tacho de basura inteligente que detecta cuando se aproxima una persona y se abre. 
 
+Progreso del equipo:
+
+En primer lugar, comenzamos con la planeacion del proyecto y pensamos cuales podrian haber sido los prosibles componentes a usar en el trabajo. Al ya tener una idea clara, compramos todos los componentes necesarios y, cuando ya estabamos seguros de que lo ibamos a poder hacer, investigamos e hicimos la programacion de la Raspberry Pi Pico. 
+  Luego, teniamos que seguir con el ultimo paso: La colocacion de los componentes en la placa. Para ello, agujereamos la placa con todos los pines de los materiales. 
+
 Componentes utilizados:
 
 - Raspberry Pi Pico $14000
@@ -21,10 +26,5 @@ Componentes utilizados:
 - Cable USB $3000
 - Bateria 9V $5800
   
-Progreso del equipo:
-
-En primer lugar, comenzamos con la planeacion del proyecto y pensamos cuales podrian haber sido los prosibles componentes a usar en el trabajo. Al ya tener una idea clara, compramos todos los componentes necesarios y, cuando ya estabamos seguros de que lo ibamos a poder hacer, investigamos e hicimos la programacion de la Raspberry Pi Pico. 
-  Luego, teniamos que seguir con el ultimo paso: La colocacion de los componentes en la placa. Para ello, agujereamos la placa con todos los pines de los materiales. 
-
 
 
