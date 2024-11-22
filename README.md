@@ -18,11 +18,11 @@ En primer lugar, comenzamos con la planeacion del proyecto y pensamos cuales pod
 Componentes utilizados:
 
 - Raspberry Pi Pico $14000 <a href="https://datasheets.raspberrypi.com/pico/Pico-R3-A4-Pinout.pdf">Pinout Pi Pico</a>
-- Sensor ultrasonico HC-SR04 $2790
-- Servomotor SG-5010 $7300
+- Sensor ultrasonico HC-SR04 $2790 <a href="https://www.alldatasheet.es/datasheet-pdf/view/1132203/ETC2/HC-SR04.html">Datasheet-Hoja de Datos</a>
+- Servomotor SG-5010 $7300 <a href="https://www.alldatasheet.com/datasheet-pdf/view/1540157/ETC2/SG5010.html">Datasheet-Hoja de Datos</a>
 - Resistores de 1,8 Kilohms y 3,3 Kilohms $100
 - Placa simple faz $3000
-- Cables 
+- Cables
 - Cable USB $3000
 - Bateria 9V $5800
   
